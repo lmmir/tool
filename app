@@ -9,3 +9,5 @@ easytier
 qq
 微信
 火绒
+netrouteview
+NetDebugger_Release_x64
