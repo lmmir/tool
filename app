@@ -5,3 +5,7 @@ clash
 office
 360压缩
 honeyview
+easytier
+qq
+微信
+火绒
